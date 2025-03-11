@@ -17,7 +17,7 @@ Este proyecto analiza los factores que influyen en las propinas en un restaurant
 ## 📊 Visualizaciones  
 Aquí algunos gráficos clave del análisis:
 
-![Propina por Turno](ruta-de-la-imagen.png)  
+![Propina por Turno](imagenes/propina_por_genero.png)  
 ![Propina por Género](ruta-de-la-imagen.png)  
 
 ## 🚀 Tecnologías Usadas
