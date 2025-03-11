@@ -17,7 +17,7 @@ Este proyecto analiza los factores que influyen en las propinas en un restaurant
 ## 📊 Visualizaciones  
 Aquí algunos gráficos clave del análisis:
 
-![Relación_entre_total_de_la_cuenta_y_propina](imagenes\relacion_total_cuenta_propina.png)  
+![Relación_entre_total_de_la_cuenta_y_propina](imagenes/relacion_total_cuenta_propina.png)  
 ![Distribución_de_Propinas](imagenes/distribucion_de_propinas.png)  
 ![Propina por Género](imagenes/propina_por_genero.png) 
 ![Propina promedio_por_día](imagenes/propina_promedio_por_dia.png) 
