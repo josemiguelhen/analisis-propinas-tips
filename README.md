@@ -18,7 +18,7 @@ Este proyecto analiza los factores que influyen en las propinas en un restaurant
 Aquí algunos gráficos clave del análisis:
 
 ![Propina por Turno](ruta-de-la-imagen.png)  
-![Propina por Género]("C:\Users\josem\Desktop\Captura de pantalla 2025-03-11 003710.png")  
+![Propina por Género](ruta-de-la-imagen.png)  
 
 ## 🚀 Tecnologías Usadas
 - Python 🐍
@@ -32,6 +32,6 @@ Aquí algunos gráficos clave del análisis:
 3. Ejecuta las celdas para replicar el análisis.
 
 ## 📢 Contacto
-📩 **Tu Correo**  
+📩 **jose.miguelhen@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-miguel-henr%C3%ADquez-arrau-sociologo-fullstack-web/)  
 
